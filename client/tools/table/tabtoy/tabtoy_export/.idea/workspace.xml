@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/tabtoy_export$main.coverage" NAME="main Coverage Results" MODIFIED="1574697156960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://C:/Go" />
+  <component name="ProjectId" id="1UFR9RKfwsCKjt7nd126TSwcfna" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../tsinfoexport" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tabtoy_export" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="" />
+      <created>1574691554895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574691554895</updated>
+      <workItem from="1574691557636" duration="193000" />
+      <workItem from="1574691766012" duration="5105000" />
+      <workItem from="1574950212529" duration="3000" />
+      <workItem from="1574950854594" duration="19000" />
+      <workItem from="1574950946986" duration="7000" />
+      <workItem from="1577802245611" duration="12000" />
+      <workItem from="1578914953281" duration="93000" />
+      <workItem from="1580726103399" duration="36000" />
+      <workItem from="1580726469510" duration="1578000" />
+      <workItem from="1590395786445" duration="720000" />
+      <workItem from="1590396538257" duration="900000" />
+      <workItem from="1591929327189" duration="783000" />
+      <workItem from="1592471182765" duration="21000" />
+      <workItem from="1594023032344" duration="4064000" />
+      <workItem from="1594027671836" duration="1457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="234" key="FileChooserDialogImpl" timestamp="1612234709167">
+      <screen x="0" y="0" width="1920" height="958" />
+    </state>
+    <state x="740" y="234" key="FileChooserDialogImpl/1920.0.1920.958/0.0.1920.958@0.0.1920.958" timestamp="1612234709167" />
+    <state x="491" y="124" key="SettingsEditor" timestamp="1612234701875">
+      <screen x="0" y="0" width="1920" height="958" />
+    </state>
+    <state x="491" y="124" key="SettingsEditor/1920.0.1920.958/0.0.1920.958@0.0.1920.958" timestamp="1612234701875" />
+  </component>
+</project>
