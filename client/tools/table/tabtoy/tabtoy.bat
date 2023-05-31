@@ -4,8 +4,8 @@ echo off & color 0A
 ::指定起始文件夹
 
 set CURDIR="./"
-set SRCDIR="../../doc/"
-set TABTOY_DIR="../tools/tabtoy/"
+set SRCDIR="../../../../design/table/"
+set TABTOY_DIR="../table/tabtoy/"
 
 set LUA_C_Init_DIR="../../client/client/Assets/Lua/Cfg/"
 set LUA_S_Init_DIR="../../server/skynetServer/cfg/"
