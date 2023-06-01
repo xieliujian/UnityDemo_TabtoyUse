@@ -1,0 +1,7 @@
+{
+	"Tool": "github.com/davyxu/tabtoy",
+	"Version": "2.9.0",
+	"Hero":[
+		{ "ID": 10000, "Name": "女孩", "Modelpath": "character/girl2" },
+		{ "ID": 10001, "Name": "女士", "Modelpath": "character/lady" }
+	]}

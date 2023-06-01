@@ -1,0 +1,15 @@
+{
+	"Tool": "github.com/davyxu/tabtoy",
+	"Version": "2.9.0",
+	"TsInfo":[
+		{ "ID": 100001, "Name": "TS_Login_Failed", "Desc": "登录失败" },
+		{ "ID": 100002, "Name": "TS_Login_Success", "Desc": "登录成功" },
+		{ "ID": 100100, "Name": "TS_Login_CreateName_Failed", "Desc": "创建名字失败" },
+		{ "ID": 100101, "Name": "TS_Login_CreateName_Succeed", "Desc": "创建名字成功" },
+		{ "ID": 100200, "Name": "TS_Login_Account_Empty", "Desc": "输入账号为空" },
+		{ "ID": 100201, "Name": "TS_Login_Passward_Empty", "Desc": "输入密码为空" },
+		{ "ID": 200001, "Name": "TS_RegAcc_Success", "Desc": "注册账号成功" },
+		{ "ID": 200002, "Name": "TS_RegAcc_Failed", "Desc": "注册账号失败，账号创建失败" },
+		{ "ID": 200003, "Name": "TS_RegAcc_Exist", "Desc": "注册账号失败，账号已经存在" },
+		{ "ID": 200004, "Name": "TS_RegAcc_Test", "Desc": "注册账号测试" }
+	]}
