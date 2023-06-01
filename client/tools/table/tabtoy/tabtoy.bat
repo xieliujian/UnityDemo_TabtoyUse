@@ -11,7 +11,7 @@ set TABTOY_DIR="../tabtoy/"
 @REM set LUA_S_Init_DIR="../../../../server/skynetServer/cfg/"
 
 set LUA_C_DSTDIR="../../client/project/Assets/Lua/Cfg/"
-set LUA_S_DSTDIR="../../server/skynetServer/cfg/"
+set LUA_S_DSTDIR="../../server/leafServer/bin/luaCfg/"
 
 set GO_S_DSTDIR="../../server/leafServer/src/server/cfg/"
 set GO_S_DSTBINDIR="../../server/leafServer/bin/cfg/"
@@ -38,7 +38,6 @@ set PYTHON_TSINFOEXPORT_MAIN_FILE="../../client/tools/table/tsinfoexport"
 @REM :: %%f 是一个变量,类似于迭代器,但是这个变量只能由一个字母组成,前面带上%%
 @REM
 @REM :: 括号中是通配符,可以指定后缀名,*.*表示所有文件
-
 
 echo "--------------------------------------------------------------------------"
 

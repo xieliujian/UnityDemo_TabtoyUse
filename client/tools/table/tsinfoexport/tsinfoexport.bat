@@ -7,7 +7,7 @@ set TsInfoCfg_Name="TsInfo.xlsx"
 ::set TsInfoEnumLuaName = "TsInfoEnum.lua"
 
 set LUA_C_DSTDIR="../../../../client/project/Assets/Lua/Cfg/"
-set LUA_S_DSTDIR="../../../../server/skynetServer/cfg/"
+set LUA_S_DSTDIR="../../../../server/leafServer/bin/luaCfg/"
 set GO_S_DSTDIR="../../../../server/leafServer/src/server/cfg/"
 
 @REM set LUA_C_DSTDIR_FROM_LUA_S_DSTDIR="../../client/client/Assets/Lua/Cfg/"
