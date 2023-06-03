@@ -12,7 +12,7 @@ set GO_S_DSTDIR="../../../../server/leafServer/src/server/cfg/"
 
 @REM set LUA_C_DSTDIR_FROM_LUA_S_DSTDIR="../../client/client/Assets/Lua/Cfg/"
 
-set PYTHON_MAIN_FILE=main.exe
+set PYTHON_MAIN_FILE=.\dist\main.exe
 
 echo "--------------------------------------------------------------------------"
 

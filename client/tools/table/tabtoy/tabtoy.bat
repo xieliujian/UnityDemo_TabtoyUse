@@ -22,7 +22,7 @@ set CSHAPE_C_DSTBINDIR="../../client/project/Assets/Package/Config/Table/"
 @REM set IGNORE_FILE="Globals.xlsx"
 @REM set LUA_C_DSTDIR_FROM_LUA_S_DSTDIR="../../../client/client/Assets/Lua/cfg/"
 
-set PYTHON_MAIN_FILE=..\..\client\tools\table\tabtoy\tabtoy_export\main.py
+set PYTHON_MAIN_FILE=..\..\client\tools\table\tabtoy\tabtoy_export\dist\main.exe
 set PYTHON_TSINFOEXPORT_MAIN_FILE="../../client/tools/table/tsinfoexport"
 
 @REM echo "--------------------------------------------------------------------------"
@@ -44,7 +44,7 @@ echo "--------------------------------------------------------------------------
 echo "cd SRCDIR"
 cd %SRCDIR%
 
-python %PYTHON_MAIN_FILE% %TABTOY_DIR% %LUA_C_DSTDIR% %LUA_S_DSTDIR% %GO_S_DSTDIR% %GO_S_DSTBINDIR% %CSHAPE_C_DSTDIR% %CSHAPE_C_DSTBINDIR% 0
+%PYTHON_MAIN_FILE% %TABTOY_DIR% %LUA_C_DSTDIR% %LUA_S_DSTDIR% %GO_S_DSTDIR% %GO_S_DSTBINDIR% %CSHAPE_C_DSTDIR% %CSHAPE_C_DSTBINDIR% 0
 
 echo "--------------------------------------------------------------------------"
 
