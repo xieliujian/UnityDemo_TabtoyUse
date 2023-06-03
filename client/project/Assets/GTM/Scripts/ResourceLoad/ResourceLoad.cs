@@ -24,6 +24,11 @@ namespace gtm
         AssetBundleLoad m_AssetBundleLoad = new AssetBundleLoad();
 
         /// <summary>
+        /// .
+        /// </summary>
+        public bool isInitAssetBundleLoad = true;
+
+        /// <summary>
         /// 
         /// </summary>
         public override void DoClose()
@@ -36,8 +41,10 @@ namespace gtm
         /// </summary>
         public override void DoInit()
         {
-
-            m_AssetBundleLoad.DoInit();
+            if (isInitAssetBundleLoad)
+            {
+                m_AssetBundleLoad.DoInit();
+            }
 
             // 安装编码器
             InstallDecorator(new LuaAssetDecorator());
