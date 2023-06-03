@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyinstaller.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsinfoexport/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsinfoexport/dist/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../tsinfoexport/pyinstaller.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../project/Assets/Lua/Cfg/configmgr.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../project/Assets/Lua/Cfg/configmgr.lua.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tabtoy_export.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tabtoy_export.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/.idea/tsinfoexport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/.idea/tsinfoexport.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../server/leafServer/src/server/cfg/cfgmgr.go" beforeDir="false" />
-    </list>
+    <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,5 +108,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.spec" />
   </component>
 </project>
