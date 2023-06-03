@@ -237,6 +237,5 @@ def main():
     export_mgrfile(tabtoy_dir, lua_c_dstdir, lua_s_dstdir, go_s_dstdir, cshape_c_dstdir, cshape_c_dstbindir,
                    is_mac_plat)
 
-
 if __name__ == '__main__':
     main()
