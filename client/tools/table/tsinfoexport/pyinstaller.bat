@@ -1,1 +1,1 @@
-pyinstaller -F main.py
+Pyinstaller -F main.py
