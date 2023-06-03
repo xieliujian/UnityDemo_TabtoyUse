@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tabtoy.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../tabtoy.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/main.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/tsinfoexport.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/tsinfoexport.bat" afterDir="false" />
-    </list>
+    <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1UFR9RKfwsCKjt7nd126TSwcfna" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/xieliujian/UnityDemo_TabtoyUse/client/tools/table/tabtoy/tabtoy_export",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Batch.pyinstaller">
