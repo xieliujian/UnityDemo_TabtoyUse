@@ -5,72 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48bce6ab-1781-4d57-93cb-6ce3a2da9d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/AppConst.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/AppConst.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/ConstDefine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/ConstDefine.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/File.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Common/File.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Core.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Core/Manager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Core/Manager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Log.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Log/LogSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Log/LogSystem.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package/Editor/Packager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package/Editor/Packager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package/Editor/Util.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/Package/Editor/Util.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetBundleLoad.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetBundleLoad.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetDecorator.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetDecorator/AssetDecorator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetDecorator/AssetDecorator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetDecorator/LuaAssetDecorator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AssetDecorator/LuaAssetDecorator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncAssetRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncAssetRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncBundleRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncBundleRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncSceneRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncSceneRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncTask.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncTask.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncTaskManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/AsyncTaskManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/BaseAsyncTaskManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/BaseAsyncTaskManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/EditorAsyncAssetRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/EditorAsyncAssetRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/EditorAsyncSceneRequest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/AsyncTask/EditorAsyncSceneRequest.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/BaseResourceLoad.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/BaseResourceLoad.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/Bundle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/Bundle.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/EditorResourceLoad.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/EditorResourceLoad.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/Lua.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/Lua/LuaScriptableObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/Lua/LuaScriptableObject.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/ResourceLoad.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/GTM/Scripts/ResourceLoad/ResourceLoad.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Lua/Cfg/configmgr.lua.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/ConfigManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/HeroCfg.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/ItemCfg.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/SceneCfg.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/ServerListCfg.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/TsInfoCfg.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/ConfigManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../project/Assets/Scripts/Table/ConfigManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/.idea/tsinfoexport.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/.idea/tsinfoexport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/dist/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/dist/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsinfoexport/pyinstaller.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsinfoexport/pyinstaller.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,17 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/xieliujian/UnityDemo_TabtoyUse/client/tools/table/tabtoy/tabtoy_export",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/xieliujian/UnityDemo_TabtoyUse/client/tools/table/tabtoy/tabtoy_export&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Batch.pyinstaller">
     <configuration name="pyinstaller" type="BatchConfigurationType" factoryName="Batch" temporary="true">
       <module name="tabtoy_export" />
